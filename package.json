@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/workspace-ds-pks.kicks-l2gkd7ly",
+  "version": "0.0.0",
+  "description": "A Shoelace based design system as a starter kit for Backlight",
+  "license": "MIT",
+  "scripts": {
+    "serve": "npx backlight@latest serve lBVO47vaJWF3yGtky0iz --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.2.1",
+    "lit-html": "^1.4.1"
+  },
+  "dependencies": {
+    "@shoelace-style/shoelace": "^2.0.0-beta.58"
+  }
+}
